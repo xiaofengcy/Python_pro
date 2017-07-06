@@ -1,0 +1,176 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<meta http-equiv="mobile-agent" content="format=html5; url=http://m.ip138.com/45/shangqiu/tianqi/"/>
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<title>商丘天气预报,商丘未来5天天气预报,河南商丘天气预报</title>
+<meta name="Keywords" content="商丘天气预报,河南商丘天气预报">
+<meta name="Description" content="为你提供快速准确的商丘一周天气预报,未来5天的天气预报和气象趋势预测,主要指标包括每天最高气温、最低气温、天气状况、风向等..">
+<link href="/css/tq20151014.css" rel="stylesheet" type="text/css">
+<script type="text/javascript">
+<!--
+function addBookMark(){
+	var t="商丘天气预报,商丘未来5天天气预报,河南商丘天气预报 www.ip138.com";
+	var url="http://qq.ip138.com/weather/henan/ShangQiu.htm";
+	try{
+		window.external.addFavorite(url,t);
+	}catch (e){
+		try{
+			window.sidebar.addPanel(t, url, "");
+		}catch (e){
+			alert("您的浏览器须用Ctrl+D进行添加收藏");
+		}
+	}
+}
+//-->
+</script>
+</head>
+<body>
+<div align="center">
+	<table cellpadding="0" cellspacing="0" align="center" width="780" class="t1">
+		<tr bgcolor="#ededed">
+			<td width="20"></td>
+			<td height="44" align="left"><a href="http://www.ip138.com/"><b>www.ip138.com 查询网</b></a></td>
+			<td width="230"><b>手机上网查询:wap.ip138.com</b></td>
+		</tr>
+		<tr bgcolor="#6699cc">
+			<td colspan="3" height="2" ></td>
+		</tr>
+	</table>
+	<table cellpadding="0" cellspacing="0" align="center" width="780" class="t1">
+		<tr align="center">
+			<td height="30"><a href="http://qq.ip138.com/weather/" target="_blank">天气预报-预报五天</a></td>
+			<td height="30"><a href="http://qq.ip138.com/train/" target="_blank">国内列车时刻表查询</a></td>
+			<td height="30"><a href="http://www.ip138.com/sj/" target="_blank">手机号码所在地区查询</a></td>
+			<td height="30"><a href="http://qq.ip138.com/day/" target="_blank">阴阳转换万年历</a></td>
+		</tr>
+		<tr align="center">
+			<td height="30"><a href="http://www.ip138.com/gb.htm" target="_blank">汉字简体繁体转换</a></td>
+			<td height="30"><a href="http://www.ip138.com/jb.htm" target="_blank">国内国际机票查询</a></td>
+			<td height="30"><a href="http://10.ip138.com/" target="_blank">品牌排行榜</a></td>
+			<td height="30"><a href="http://qq.ip138.com/wb/wb.asp" target="_blank">五笔编码拼音查询</a></td>
+		</tr>
+		<tr align="center">
+			<td height="30"><a href="http://qq.ip138.com/tran.htm" target="_blank">在线翻译</a></td>
+			<td height="30"><a href="http://qq.ip138.com/hl.asp" target="_blank">货币汇率兑换</a></td>
+			<td height="30"><a href="http://qq.ip138.com/converter.htm" target="_blank">在线度衡量转换器</a></td>
+			<td height="30"><a href="http://www.ip138.com/post/" target="_blank">邮编查询区号查询</a></td>
+		</tr>
+		<tr align="center">
+			<td height="30"><a href="http://qq.ip138.com/idsearch/" target="_blank">身份证号码查询验证</a></td>
+			<td height="30"><a href="http://www.ip138.com/ems/" target="_blank">快递查询</a> <a href="http://www.ip138.com/ems/" target="_blank">EMS查询</a></td>
+			<td height="30"><a href="http://www.ip138.com/carlist.htm" target="_blank">全国各地车牌查询表</a></td>
+			<td height="30"><a href="http://qq.ip138.com/zt.htm" target="_blank">论坛转贴工具</a></td>
+		</tr>
+	</table>
+</div>
+
+<br>
+<table width="780" border="0" cellpadding="0" align="center" class="t2">
+	<tr>
+		<td align="left"><a href="http://www.ip138.com/">首页</a>&gt;<a href="/weather/">天气预报</a>&gt;<a href="/weather/henan/">河南天气预报</a>&gt;<a href="/weather/henan/ShangQiu.htm">商丘天气预报</a></td>
+		<td align="right"><!-- baidu Button BEGIN -->
+    <div id="bdshare" class="bdshare_t bds_tools get-codes-bdshare">
+        <a class="bds_qzone"></a>
+        <a class="bds_tsina"></a>
+        <a class="bds_tqq"></a>
+        <a class="bds_renren"></a>
+        <span class="bds_more">更多</span>
+    </div>
+<script type="text/javascript" id="bdshare_js" data="type=tools&amp;uid=582846" ></script>
+<script type="text/javascript" id="bdshell_js"></script>
+<script type="text/javascript">
+	var bds_config = {'bdText':'商丘天气预报_2017-7-6：暴雨，27℃～24℃；2017-7-7：小雨转多云，31℃～25℃；2017-7-8：小雨转多云，31℃～25℃。ip138.com查询商丘天气预报，商丘未来5天天气预报'};
+	document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?t=" + new Date().getHours();
+</script>
+<!-- baidu Button END --></td>
+	<td width="80"><a href="javascript:;" onClick="addBookMark()">加入收藏</a></td>
+	</tr>
+</table>
+<div id="Title"><b>河南商丘地区今天和未来5天天气趋势预报</b></div>
+
+<div align="center">
+<script type="text/javascript">
+var cpro_id = "u2299917";
+</script>
+<script src="http://cpro.baidustatic.com/cpro/ui/c.js" type="text/javascript"></script>
+</div>
+
+<p align="center"><table class="t12" cellspacing="1" cellpadding="1" align="center">
+<tr height="22">
+<td colspan="5" id="t9"><h2>商丘未来1-5天天气预报</h2><div class="tq-btns"><a href="shangqiu_7tian.htm" class="tq-btn">7天天气预报</a><a href="shangqiu_1zhou.htm" class="tq-btn">一周天气预报</a><a href="shangqiu_10tian.htm" class="tq-btn">10天天气预报</a><a href="shangqiu_2zhou.htm" class="tq-btn">二周天气预报</a><a href="shangqiu_15tian.htm" class="tq-btn">15天天气预报</a><a href="shangqiu_lishi.htm" class="tq-btn">天气历史记录</a></div></td></tr>
+<tr class="bg5">
+<td width="20%">2017-7-6 星期四</td>
+<td width="20%">2017-7-7 星期五</td>
+<td width="20%">2017-7-8 星期六</td>
+<td width="20%">2017-7-9 星期日</td>
+<td width="20%">2017-7-10 星期一</td>
+</tr><tr>
+<td><img src="/image/b10.gif" alt="暴雨" /><br/>暴雨</td>
+<td><img src="/image/b7.gif" alt="小雨" /><img src="/image/b1.gif" alt="多云" /><br/>小雨转多云</td>
+<td><img src="/image/b7.gif" alt="小雨" /><img src="/image/b1.gif" alt="多云" /><br/>小雨转多云</td>
+<td><img src="/image/b7.gif" alt="小雨" /><img src="/image/b10.gif" alt="暴雨" /><br/>小雨转暴雨</td>
+<td><img src="/image/b7.gif" alt="小雨" /><img src="/image/b1.gif" alt="多云" /><br/>小雨转多云</td>
+</tr><tr>
+<td>
+27℃～24℃
+</td>
+<td>
+31℃～25℃
+</td>
+<td>
+31℃～25℃
+</td>
+<td>
+31℃～25℃
+</td>
+<td>
+28℃～24℃
+</td>
+</tr><tr>
+<td> 微风</td>
+<td> 微风</td>
+<td> 微风</td>
+<td> 微风</td>
+<td> 微风</td>
+</tr></table>
+</p>
+<div id="phonezip">
+<ul>
+	<li>河南商丘电话区号：<a href="http://www.ip138.com/post/0370/" target="_blank">0370</a></li>
+	<li>河南商丘邮政编码：<a href="http://www.ip138.com/post/476000/" target="_blank">476000</a></li>
+</ul>
+</div>
+<p align="center">请输入市、县、地区<font color=blue>中文名称</font>、<font color=blue>电话区号</font>或<font color=blue>邮政编码前四位</font>查询：</p>
+<p align="center"><form name="form1" method="post" action="/weather/search.asp">
+	<div align="center">
+		<input name="k" type="text" id="k">
+		<input type="submit" name="Submit" value="提交">
+	</div>
+</form>
+</p>
+<p align="center"><font color="#008000">手机WAP上网查询:</font> <font
+color="#FF0000">wap.ip138.com</font> <font color="#008000">用手机随时可以查</font></p>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center">
+<p align="center">
+
+<script type="text/javascript">
+var cpro_id = "u2299917";
+</script>
+<script src="http://cpro.baidustatic.com/cpro/ui/c.js" type="text/javascript"></script>
+
+
+</p>
+<br/>
+</td>
+  </tr>
+</table>
+<p align="center"></a>联系我们.请<a href="http://www.ip138.com/mail.htm" rel="nofollow" target="_blank">发email</a>.或给<a
+href="http://qq.3533.com:8080/book.asp?siteid=7" rel="nofollow" target="_blank">我们留言</a>谢谢!</p>
+<p align="center">粤ICP备05004654号</p>
+<script type="text/javascript" src="http://tajs.qq.com/stats?sId=36241669" charset="UTF-8"></script>
+</body>
+</html>
